@@ -10,7 +10,7 @@ URI="192.168.0.100"
 USERNAME=monitor
 PASSWORD=monitor
 
-# Initial settings
+# Static settings
 SERVICE_TEMPLATE="default-service"
 COMMAND="check-target-alive"
 
